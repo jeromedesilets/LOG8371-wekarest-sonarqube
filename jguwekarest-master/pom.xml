@@ -335,5 +335,9 @@
         <servlet-api-version>4.0.0</servlet-api-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <db.configfile>config/db.properties</db.configfile>
+        <sonar.projectKey>LOG8371-wekarest-sonarqube</sonar.projectKey>
+  	<sonar.organization>jeromedesilets</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.login>b9b9b8c1884978f7c1e62d01a82016fb736b68c2</sonar.login>
     </properties>
 </project>
